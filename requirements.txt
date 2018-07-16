@@ -1,0 +1,9 @@
+
+tensorflow==1.0.1
+keras==2.0.6
+keras_contrib==2.0.8
+gensim==3.4.0
+
+# cuda==v8.0
+
+# gpu==GTX750Ti
